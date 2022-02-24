@@ -1,4 +1,4 @@
-# proj8-mutil_linux_kernel.md
+# proj8-mutil linux kernel.md
 ### 项目名称
 双Linux内核并行执行
 
